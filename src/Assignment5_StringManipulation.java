@@ -58,7 +58,7 @@ public class Assignment5_StringManipulation {
                 count++;
             }
         }
-        System.out.println("Number of vowels: " + count);
+        System.out.println("Number of  vowels: " + count);
     }
 
     // ===================== TASK 2 =====================
