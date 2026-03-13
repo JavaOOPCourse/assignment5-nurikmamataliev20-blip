@@ -17,7 +17,7 @@ public class Assignment5_StringManipulation {
             System.out.println("6 — Capitalize First Letter of Each Word");
             System.out.println("7 — Find the Most Frequent Character");
             System.out.println("8 — Check Anagrams");
-            System.out.print("Ваш выбор: ");
+            System.out.print("Ваш выбор:  ");
 
             int choice;
             try {
